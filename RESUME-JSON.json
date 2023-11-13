@@ -1,0 +1,103 @@
+{
+  "my_profile": {
+    "name": "Hamsa",
+    "label": "DevOps Engineer",
+    "image": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "bristol",
+      "postalCode": "bristol",
+      "city": "San bristol",
+      "countryCode": "UK",
+      "region": "southwest England"
+    },
+    "social media": [{
+      "Network": "Twitter",
+      "username": "john",
+      "url": "https://twitter.com/john"
+    }]
+  },
+  
+  "volunteer": [{
+    "organization": "bristol phoenix",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "Education": [{
+    "institution": "University",
+    "url": "https://institution.com/",
+    "area": "Computer sceince ",
+    "study type": "Bachelor",
+    "startDate": "2019-09-01",
+    "endDate": "2022-06-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  
+  "certificates": [{
+    "name": "bachelor degree",
+    "date": "2022-06-01",
+    "issuer": "University of Gloucestershire",
+    "url": "https://www.glos.ac.uk"
+  }],
+  "other certificates": [{
+    "name": "AWS cloud practitioner ",
+    "date": "2023-09-27",
+    "issuer": "AWS",
+    "url": "https://www.glos.ac.uk"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [{
+    "name": "DevOps",
+    "level": "Master",
+    "keywords": [
+      "python",
+      "Linux",
+      "BASH scripting",
+      "Docker",
+      "Git and Githup",
+      "Git action",
+      "Networking",
+      "Terraform"
+
+	
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }]
+}
